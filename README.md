@@ -7,6 +7,9 @@ https://mcs-lite-introduction.netlify.com/zh-tw/
 # Dockerhub:
 https://hub.docker.com/r/kadok0520/mcs-lite/
 
+# Github
+https://github.com/kadok0520/MCS-Lite
+
 # Step:
 1. pull image  下載映像檔
 $ docker pull kadok0520/mcs-lite
