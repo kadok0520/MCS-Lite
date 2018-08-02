@@ -1,5 +1,6 @@
 FROM node:alpine
 MAINTAINER Hong-Da, Ke
+ENV VERSION='1.2.2'
 
 RUN apk update \
     &&apk add yarn tar gzip\
